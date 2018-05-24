@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">مشـــروع 2</string>
+    <string name="Welcome">"مرحبــــا بكم في مطعمنا "</string>
+    <string name="loginInfo">معلومات تسجيل الدخول</string>
+    <string name="Email">البريد </string>
+    <string name="Password">كلمة المرور</string>
+    <string name="Enter">موافق</string>
+    <string name="NewAccount"> أنشاء حساب جديد ؟</string>
+    <string name="logError">" المعلومات المدخلة غير صحيحة , يرجى أعادة المحاولة "</string>
+    <string name="FirstName">الأسم الأول</string>
+    <string name="LastName">الأسم الأخير</string>
+    <string name="EdiFirstName"> أدخل الأسم الأول هنا </string>
+    <string name="EdiLastName"> أدخل الأسم الأخير هنا </string>
+    <string name="EdiEmail"> أدخل البريد الألكتروني هنا </string>
+    <string name="EdiPassowrd"> أدخل كلمة المرور هنا</string>
+    <string name="ToMenuPage"> القائمة الرئيسة</string>
+    <string name="Exit">الخروج</string>
+    <string name="SaveNewAccount"> تم أنشاء حساب جديد بنجاح </string>
+</resources>

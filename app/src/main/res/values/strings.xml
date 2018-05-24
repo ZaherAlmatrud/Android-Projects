@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">Project_2</string>
+    <string name="Welcome"> Welcome to You Restaurant </string>
+    <string name="loginInfo"> Login Information</string>
+    <string name="Email"> Email</string>
+    <string name="Password">Password</string>
+    <string name="Enter"> Enter</string>
+    <string name="NewAccount"> Registre ? </string>
+    <string name="logError"> Information Error , Try Agen </string>
+    <string name="FirstName">First Name </string>
+    <string name="LastName"> Last Name</string>
+    <string name="EdiFirstName"> Enter Firset Name Here </string>
+    <string name="EdiLastName"> Enter Last Name Here </string>
+    <string name="EdiEmail"> Enter Email Here </string>
+    <string name="EdiPassowrd"> Enter Password Here </string>
+    <string name="ToMenuPage"> To Menu Page</string>
+    <string name="Exit"> Exit</string>
+    <string name="SaveNewAccount"> Succesful New Account  </string>
+    
+    <string-array name="titels">
+        <item> Food1 </item>
+        <item> Food2 </item>
+        <item> Food3 </item>
+        <item> Food4 </item>
+        <item> Food5 </item>
+        <item> Food6 </item>
+        <item> Food7 </item>
+        <item> Food8 </item>
+        <item> Food9 </item>
+        <item> Food10 </item>
+        <item> Food11 </item>
+        <item> Food12 </item>
+        <item> Food13 </item>
+        <item> Food14 </item>
+        <item> Food15 </item>
+        <item> Food16 </item>
+        <item> Food17 </item>
+        <item> Food18 </item>
+        <item> Food19 </item>
+        <item> Food20 </item>
+        <item> Food21 </item>
+        <item> Food22 </item>
+        <item> Food23 </item>
+        <item> Food24 </item>
+        <item> Food25 </item>
+        <item> Food26 </item>
+        <item> Food27 </item>
+        <item> Food28 </item>
+        <item> Food29 </item>
+        <item> Food30 </item>
+    </string-array>
+    <string-array name="des">
+        <item> des Food1 -----------  </item>
+        <item> des Food2 -----------  </item>
+        <item> des Food3 -----------  </item>
+        <item> des Food4 -----------  </item>
+        <item> des Food5 -----------  </item>
+        <item> des Food6 -----------  </item>
+        <item> des Food7 -----------  </item>
+        <item> des Food8 -----------  </item>
+        <item> des Food9 -----------  </item>
+        <item> des Food10 ----------  </item>
+    </string-array>
+</resources>
